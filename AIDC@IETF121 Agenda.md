@@ -1,6 +1,6 @@
 # AIDC@IETF121 Agenda
 
-Time: 15:00 - 17:00 Thursday, October 7, 2024
+Time: 15:00 - 17:00 Dublin Time Thursday, October 7, 2024
 
 Location: Wicklow Hall 2A
 
