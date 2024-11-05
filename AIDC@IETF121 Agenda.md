@@ -12,7 +12,6 @@ Opening
 
 3. 15:05 - 15:50  
 Adi Gangidi (Meta)
-
 **Network and Communication Infrastructure powering Meta’s GenAI and Recommendation Systems**
 
 
